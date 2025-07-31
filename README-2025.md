@@ -5,7 +5,6 @@
 
 - Currently diving into bash scripting
 - Building an distraction-less environment by combining zen philosophies and a minimalist approach
-- Find my thoughts at [mastodon.social/@anstrinn](https://mastodon.social/@anstrinn)
 - I write at [anstrinn.github.io](https://anstrinn.github.io)
 
 
